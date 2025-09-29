@@ -33,3 +33,5 @@ Run Celery worker:celery -A config worker -l info
 
 Run Celery Beat (for scheduled tasks):celery -A config beat -l info
 
+visit url for swagger api docs at : http://localhost:8000/swagger/
+
